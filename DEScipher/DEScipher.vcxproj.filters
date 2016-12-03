@@ -24,12 +24,21 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\加密解密（c实现DES、AES）\加密解密（c实现DES、AES）\DES\DES.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="DEScipher.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Downloads\加密解密（c实现DES、AES）\加密解密（c实现DES、AES）\DES\DES.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Downloads\加密解密（c实现DES、AES）\加密解密（c实现DES、AES）\DES\main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
