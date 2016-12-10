@@ -24,7 +24,7 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Downloads\加密解密（c实现DES、AES）\加密解密（c实现DES、AES）\DES\DES.h">
+    <ClInclude Include="DES.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
@@ -35,10 +35,10 @@
     <ClCompile Include="DEScipher.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Downloads\加密解密（c实现DES、AES）\加密解密（c实现DES、AES）\DES\DES.cpp">
+    <ClCompile Include="DES.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Downloads\加密解密（c实现DES、AES）\加密解密（c实现DES、AES）\DES\main.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
